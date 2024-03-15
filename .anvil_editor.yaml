@@ -1,7 +1,21 @@
 unique_ids:
-  forms: {}
+  forms:
+    Form1: '1710503972990524402862630.2517'
   modules: {}
   server_modules: {}
   assets:
+    js/todolist.js: '1710506724859155316395832.8474'
+    js/todo.js: '1710506699653394119146181.845'
+    js/off-canvas.js: '1710506654804280494549585.3448'
+    js/misc.js: '1710506631799709696978412.0033'
+    js/.gitkeep: '171050624470311495233604.763123'
+    js/hoverable-collapse.js: '1710506593628777506003563.7693'
+    style.css: '1710507721121811417980752.0286'
     standard-page.html: A2BYHVM7LMY2HECN4IN76WJORTPOAXKA
-    theme.css: A7BM5DZB3YQAS5IX6AON5TPAOWASYFW7
+    js/jquery.cookie.js: '171050661031553044537617.691124'
+    front/Ubuntu-Bold.eot: '1710507465432396654283877.26953'
+    js/chart.js: '171050651677228825923479.864677'
+    front/.gitkeep: '1710507429732805412586704.245'
+    front/Ubuntu-Bold.ttf: '1710507479025961596258344.2832'
+    js/file-upload.js: '1710506545086806489450118.6475'
+    js/dashboard.js: '1710506528142174829810151.82043'
